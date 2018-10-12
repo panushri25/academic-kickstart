@@ -18,28 +18,33 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Colloboration"
+  company = "University Of Maryland"
+  company_url = "https://www.umd.edu/"
+  location = "Marylandd"
+  date_start = "2018-05-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """Working on machine learning for biological network modelling"""
   
-  * Analysing
-  * Modelling
-  * Deploying
+[[experience]]
+  title = "Research Intern"
+  company = "IBM Watson Research"
+  company_url = "http://www.research.ibm.com/"
+  location = "Cambridge"
+  date_start = "2017-05-01"
+  date_end = "2018-05-01"
+  description = """Worked on question-answering for Electronic Medical Records. Research started as an internship and continued towards my thesis at UIUC."
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Intern"
+  company = "Rice University"
+  company_url = "https://www.rice.edu/"
+  location = "Houston"
+  date_start = "2014-01-01"
+  date_end = "2014-12-31"
+  description = """Worked on mobile computing for image processing. Research started as an internship and conitnued at IIT Bombay. """
 
 +++
