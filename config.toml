@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "University Of Illinois Urbana-Champaign", url = "https://illinois.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Anusri_Pampari.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "pampari2@illinois.edu"
@@ -197,7 +197,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -277,11 +277,11 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "Awards"
   url = "#posts"
   weight = 3
 
