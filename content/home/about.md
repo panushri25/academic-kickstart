@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning",
+    "Natural Language Processing",
+    "Machine Learning Interpretability",
+    "Machine Learning for HealthCare"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MS in Computer Science"
+  institution = "University Of Illinois Urbana-Champiagn"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MTech in Electrical Engineering"
+  institution = "Indian Institute Of Technology, Bombay"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BTech in Electrical Engineering"
+  institution = "Indian Institute Of Technology, Bombay"
+  year = 2016
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Anusri Pampari. I am a graduate student in computer science at UIUC. My research interests are focused in Machine Learning and Natural Language Processing. Working as a member of Professor Jian Peng’s group, I  have been leading a collaborative project with IBM Research. My work so far has been focused on developing a question answering system for Electronic Medical Records. In this endeavor, we developed a large dataset "emrQA", and I am happy to be presenting this work at EMNLP, 2018's main conference in Brussels, Belgium. This work also introduced me to the important and challenging problem of machine learning interpretability, which is the focus of my ongoing research. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
