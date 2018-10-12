@@ -1,5 +1,5 @@
 +++
-title = "Example Talk"
+title = "Learning Logical Forms for Electronic Medical Records"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -16,7 +16,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Doctoral Student Consortium"
+event = "American Medical Inforatics Associations, Doctoral Student Consortium"
 event_url = ""
 
 # Location of event.
