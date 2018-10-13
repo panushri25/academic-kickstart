@@ -14,14 +14,12 @@ subtitle = ""
 weight = 12
 +++
 
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- CS 466: Bioinformatics, UIUC, Fall 2018
+- CS 173: Discrete Mathematics, UIUC, Spring 2018
+- CS 173: Discrete Mathematics, UIUC, Spring 2017
+- CS 173: Discrete Mathematics, UIUC, Spring 2017
+- CS 101: Introduction to Computing, UIUC, Fall 2016
+- EE 224: Digital Electronis, IIT Bombay, Spring 2016
+- EE 677: VLSI CAD, IIT Bombay, IIT Bombay, Fall 2015
 
 
