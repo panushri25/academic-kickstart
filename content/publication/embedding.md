@@ -1,6 +1,6 @@
 +++
 title = "Learning Predictive Embeddings for  Heterogeneous Molecular Networks"
-date = 2017-11-11T00:00:00
+# date = 2017-11-11T00:00:00
 draft = false
 active = true
 
@@ -19,7 +19,7 @@ authors = ["**Anusri Pampari**", "Yuexi Chen", "Mark Leiserson", "Jian Peng"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "23rd International Conference on Research in Computational Molecular Biology, RECOMB"
+publication = "23rd International Conference on Research in Computational Molecular Biology, RECOMB 2019"
 publication_short = ""
 
 # Abstract and optional shortened version.
