@@ -1,6 +1,6 @@
 +++
 title = "Help Me Search: Collaborative Query Construction to Improve Retrieval Accuracy for Difficult Queries"
-date = 2017-11-11T00:00:00 
+date = 2018-09-11T00:00:00 
 draft = false
 active = true
 
@@ -16,7 +16,7 @@ authors = ["Saar Kuzi", "Abhishek Narwekar", "**Anusri Pampari**", "ChenXiang Zh
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "ACM SIGIR Conference on Human Information Interaction and Retrieval, CHIIR"
