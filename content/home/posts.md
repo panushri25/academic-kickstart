@@ -14,12 +14,16 @@ subtitle = ""
 weight = 9
 +++
 
-I am a teaching instructor for the following courses at University X:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+**Siebel Scholar**: $35k awarded annually for academic excellence and demonstrated leadership to over
+90 top students from the worlds leading graduate schools
+**Academic Awards**
+- Academic Excellence Award for ranking 2nd in dept’s B.Tech - M.Tech program, IIT Bombay, 2016
+- Undergraduate Research Award for outstanding research contribution, IIT Bombay, 2015
+- Best Research Project Award out of 112 institute wide projects, IIT Bombay, 2012
+**Leadership Awards**
+- Organizational Excellence Award for leading the dept’s mentorship body, IIT Bombay, 2016
+- Outstanding Mentorship Honor out of 200 institute student mentors, IIT Bombay, 2014
+**Travel Awards**
+- Tapia Conference Travel Grant: awarded to 3 graduate students from UIUC, 2018
+- Google Conference Travel Grant: awarded to 8 students from graduate schools in USA, 2018
