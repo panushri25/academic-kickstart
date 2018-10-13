@@ -43,8 +43,8 @@ date_format = "January 2006"
   company = "Rice University"
   company_url = "https://www.rice.edu/"
   location = "Houston, USA"
-  date_start = "2014-01-01"
-  date_end = "2014-12-31"
+  date_start = "2014-05-01"
+  date_end = "2014-08-31"
   description = """Worked on mobile computing for image processing. Research started as an internship and continued at IIT Bombay. """
 
 +++
