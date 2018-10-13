@@ -1,6 +1,6 @@
 +++
 title = "Help Me Search: Collaborative Query Construction to Improve Retrieval Accuracy for Difficult Queries"
-#date = 2018-09-11T00:00:00 
+# date = 2018-09-11T00:00:00 
 draft = false
 active = true
 
@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "ACM SIGIR Conference on Human Information Interaction and Retrieval"
-publication_short = "CHIIR"
+publication_short = "CHIIR 2018"
 
 # Abstract and optional shortened version.
 abstract = "Implemented a novel framework where the search engine and the user work together to iteratively reformulate a input query. Method is shown to improve retrieval accuracy for difficult queries. "
