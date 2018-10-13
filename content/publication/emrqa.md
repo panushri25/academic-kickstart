@@ -1,6 +1,6 @@
 +++
 title = "emrQA: A Large Corpus for Question Answering on Electronic Medical Records"
-date = 2017-11-11T00:00:00
+date = 2018-08-10T00:00:00
 draft = false
 active = true
 
