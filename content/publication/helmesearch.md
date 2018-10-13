@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "ACM SIGIR Conference on Human Information Interaction and Retrieval, CHIIR 2019 [under review]"
-publication_short = "CHIIR 2019"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Implemented a novel framework where the search engine and the user work together to iteratively reformulate a input query. Method is shown to improve retrieval accuracy for difficult queries. "
