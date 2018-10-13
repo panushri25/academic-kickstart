@@ -1,6 +1,6 @@
 +++
 title = "Help Me Search: Collaborative Query Construction to Improve Retrieval Accuracy for Difficult Queries"
-date = "2019-01-01"
+date = 2019-01-01
 draft = false
 active = true
 
