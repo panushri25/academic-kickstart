@@ -20,10 +20,10 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Colloboration"
+  title = "Research Collaboration"
   company = "University Of Maryland"
   company_url = "https://www.umd.edu/"
-  location = "Marylandd"
+  location = "Maryland, USA"
   date_start = "2018-05-01"
   date_end = ""
   description = """Working on machine learning for biological network modelling"""
@@ -34,7 +34,7 @@ date_format = "January 2006"
   company_url = "http://www.research.ibm.com/"
   location = "Cambridge"
   date_start = "2017-05-01"
-  date_end = "2018-05-01"
+  date_end = "2017-08-01"
   description = """Worked on question-answering for Electronic Medical Records. Research started as an internship and continued towards my thesis at UIUC."
   """
 
@@ -45,6 +45,6 @@ date_format = "January 2006"
   location = "Houston"
   date_start = "2014-01-01"
   date_end = "2014-12-31"
-  description = """Worked on mobile computing for image processing. Research started as an internship and conitnued at IIT Bombay. """
+  description = """Worked on mobile computing for image processing. Research started as an internship and continued at IIT Bombay. """
 
 +++
