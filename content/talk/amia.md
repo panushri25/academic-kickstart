@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+time_start = 2017-11-01T13:00:00
+t#ime_end = 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Anusri Pampari**","Preethi Raghavan"]
@@ -17,7 +17,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "American Medical Inforatics Associations, Doctoral Student Consortium"
-event_url = ""
+event_url = "https://ohnlp.github.io/NLP_WG_Pre-symposium-2017/NLP-WG.html"
 
 # Location of event.
 location = "Washington D.C, USA"
@@ -38,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "static/ibm_ppt.ppt"
 url_video = ""
 url_code = ""
 
