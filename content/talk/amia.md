@@ -16,7 +16,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "American Medical Inforatics Associations, Doctoral Student Consortium"
+event = "American Medical Inforatics Associations, Doctoral Student Consortium, AMIA 2017"
 event_url = "https://ohnlp.github.io/NLP_WG_Pre-symposium-2017/NLP-WG.html"
 
 # Location of event.
