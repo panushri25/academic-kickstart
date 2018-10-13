@@ -16,7 +16,7 @@ weight = 9
 
 
 **Siebel Scholar**: $35k awarded annually for academic excellence and demonstrated leadership to over
-90 top students from the worlds leading graduate schools
+90 top students from the worlds leading graduate schools [[press release]](https://www.businesswire.com/news/home/20180913005122/en/Siebel-Scholars-Foundation-Announces-Class-2019)
 
 **Academic Awards**
 
