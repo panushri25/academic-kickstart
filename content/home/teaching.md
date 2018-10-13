@@ -16,7 +16,7 @@ weight = 12
 
 - CS 466: Bioinformatics, UIUC, Fall 2018
 - CS 173: Discrete Mathematics, UIUC, Spring 2018
-- CS 173: Discrete Mathematics, UIUC, Spring 2017
+- CS 173: Discrete Mathematics, UIUC, Fall 2017
 - CS 173: Discrete Mathematics, UIUC, Spring 2017
 - CS 101: Introduction to Computing, UIUC, Fall 2016
 - EE 224: Digital Electronis, IIT Bombay, Spring 2016
