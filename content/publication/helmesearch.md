@@ -1,7 +1,7 @@
 +++
 title = "Help Me Search: Collaborative Query Construction to Improve Retrieval Accuracy for Difficult Queries"
-date = 2017-11-11T00:00:00 
-draft = true
+date = 2019-11-11T00:00:00 
+draft = false
 active = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
