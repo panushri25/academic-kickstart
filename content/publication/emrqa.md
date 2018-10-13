@@ -19,7 +19,7 @@ authors = ["**Anusri Pampari**", "Preethi Raghavan", "Jennifer Liang", "Jian Pen
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Emperical Methods in Natural Language Processing, EMNLP 2018"
+publication = "Emperical Methods in Natural Language Processing, EMNLP 2018 [accepted]"
 publication_short = ""
 
 # Abstract and optional shortened version.
