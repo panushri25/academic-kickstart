@@ -16,7 +16,7 @@ authors = ["Saar Kuzi", "Abhishek Narwekar", "**Anusri Pampari**", "ChenXiang Zh
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "ACM SIGIR Conference on Human Information Interaction and Retrieval, CHIIR"
