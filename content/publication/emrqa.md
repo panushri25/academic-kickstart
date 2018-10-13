@@ -1,6 +1,6 @@
 +++
 title = "emrQA: A Large Corpus for Question Answering on Electronic Medical Records"
-date = 2018-08-10T00:00:00
+# date = 2018-08-10T00:00:00
 draft = false
 active = true
 
@@ -19,7 +19,7 @@ authors = ["**Anusri Pampari**", "Preethi Raghavan", "Jennifer Liang", "Jian Pen
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Emperical Methods in Natural Language Processing, EMNLP"
+publication = "Emperical Methods in Natural Language Processing, EMNLP 2018"
 publication_short = ""
 
 # Abstract and optional shortened version.
