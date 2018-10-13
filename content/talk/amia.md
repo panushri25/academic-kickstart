@@ -38,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "static/ibm_ppt.ppt"
+url_slides = "static/ibm_ppt.ppt.pptx"
 url_video = ""
 url_code = ""
 
