@@ -23,7 +23,7 @@ publication = "23rd International Conference on Research in Computational Molecu
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "esigning and evaluating a neural network framework to learn shared node embeddings and network-specific models in multiple heterogeneous networks."
+abstract = "Designing and evaluating a neural network framework to learn shared node embeddings and network-specific models in multiple heterogeneous networks."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
