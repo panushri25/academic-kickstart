@@ -35,7 +35,7 @@ date_format = "January 2006"
   location = "Cambridge, USA"
   date_start = "2017-05-01"
   date_end = "2017-08-01"
-  description = """Worked on question-answering for Electronic Medical Records. Research started as an internship and continued towards my thesis at UIUC."
+  description = """Worked on question-answering for Electronic Medical Records. Research started as an internship and continued towards my thesis at UIUC.
   """
 
 [[experience]]
