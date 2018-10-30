@@ -4,6 +4,9 @@ title = "emrQA: A Large Corpus for Question Answering on Electronic Medical Reco
 draft = false
 active = true
 
+# Order that this section will appear in.
+weight = 7
+
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Anusri Pampari**", "Preethi Raghavan", "Jennifer Liang", "Jian Peng"]
 
