@@ -7,8 +7,6 @@ active = true
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Anusri Pampari**", "Yuexi Chen", "Mark Leiserson", "Jian Peng"]
 
-# Order that this section will appear in.
-weight = 5
 
 # Publication type.
 # Legend:
