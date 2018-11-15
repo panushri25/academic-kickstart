@@ -20,7 +20,7 @@ authors = ["**Anusri Pampari**", "Yuexi Chen", "Mark Leiserson", "Jian Peng"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "23rd International Conference on Research in Computational Molecular Biology, RECOMB 2019 [in preperation]"
+publication = "27th International Conference on Intelligent Systems in Molecular Biology, ISMB 2019 [in preperation]"
 publication_short = ""
 
 # Abstract and optional shortened version.
