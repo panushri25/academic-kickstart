@@ -20,6 +20,7 @@ weight = 9
 
 **Academic Awards**
 
+- Stanford School of Engineering Fellowship for the first three quarters, Stanford, 2019
 - Academic Excellence Award for ranking 2nd in dept’s B.Tech - M.Tech program, IIT Bombay, 2016
 - Undergraduate Research Award for outstanding research contribution, IIT Bombay, 2015
 - Best Research Project Award out of 112 institute wide projects, IIT Bombay, 2012
