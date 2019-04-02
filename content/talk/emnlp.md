@@ -39,7 +39,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = ""
+url_video = "https://vimeo.com/305887077"
 url_code = ""
 
 # Does the content use math formatting?
