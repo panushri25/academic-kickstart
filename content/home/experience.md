@@ -34,7 +34,7 @@ date_format = "January 2006"
   company_url = "https://www.umd.edu/"
   location = "Maryland, USA"
   date_start = "2018-05-01"
-  date_end = ""
+  date_end = "2019-02-01"
   description = """Working on machine learning for biological network modelling"""
   
 [[experience]]
