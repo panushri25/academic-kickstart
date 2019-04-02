@@ -19,7 +19,7 @@ authors = ["Saar Kuzi", "Abhishek Narwekar", "**Anusri Pampari**", "ChenXiang Zh
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "ACM SIGIR Conference on Human Information Interaction and Retrieval, CHIIR 2019 [under review]"
+publication = "ACM SIGIR Conference on Human Information Interaction and Retrieval, SIGIR 2019 [under review]"
 publication_short = ""
 
 # Abstract and optional shortened version.
