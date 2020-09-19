@@ -63,7 +63,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "anusri@stanford.edu"
-  address = "Gates Computer Science353 Serra Mall, Stanford, CA 94305"
+  address = "Gates Computer Science, 353 Serra Mall, Stanford, CA 94305"
   office_hours = ""
   telegram = ""
   keybase = "" # Your keybase.io username.
