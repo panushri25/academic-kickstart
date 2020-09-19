@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Regulatory Genomics",
     "Machine Learning",
     "Natural Language Processing",
-    "Machine Learning Interpretability",
     "Machine Learning for HealthCare"
   ]
 
@@ -36,5 +36,5 @@ weight = 5
 
 # Biography
 
-I am Anusri Pampari. I am a graduate student in computer science at Stanford. My research interests are focused in Machine Learning and Natural Language Processing. Working as a member of Professor Jian Peng’s group, I  have been leading a collaborative project with IBM Research. My work so far has been focused on developing a question answering system for Electronic Medical Records. In this endeavor, we developed a large dataset "emrQA", and I am happy to be presenting this work at EMNLP, 2018's main conference in Brussels, Belgium. This work also introduced me to the important and challenging problem of machine learning interpretability, which is the focus of my ongoing research. 
+I am Anusri Pampari, PhD student in computer science at Stanford Univerity. I am fortunate to be advised by Prof. Anshul Kundaje. My research interests are focused in Regulatory Genomics, Machine Learning and Natural Language Processing. 
 
