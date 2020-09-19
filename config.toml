@@ -52,18 +52,18 @@ enableGitInfo = false
 
    # Your details.
   name = "Anusri Pampari"
-  role = "MS in Computer Science"
+  role = "PhD in Computer Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University Of Illinois Urbana-Champaign", url = "https://illinois.edu/" } ]
+  organizations = [ { name = "Stanford University", url = "https://cs.stanford.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Anusri_Pampari.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "pampari2@illinois.edu"
-  address = "Thomas M. Siebel Center for Computer Science, 201 North Goodwin Avenue, Urbana, IL 61801-2302"
+  email = "anusri@stanford.edu"
+  address = "Gates Computer Science353 Serra Mall, Stanford, CA 94305"
   office_hours = ""
   telegram = ""
   keybase = "" # Your keybase.io username.
@@ -238,7 +238,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:pampari2@illinois.edu"
+    link = "mailto:anusri@stanford.edu"
 
   #[[params.social]]
   #  icon = "twitter"
