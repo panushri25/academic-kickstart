@@ -1,6 +1,6 @@
 +++
 title = "Help Me Search: Collaborative Query Construction to Improve Retrieval Accuracy for Difficult Queries"
-# date = 2018-09-11T00:00:00 
+date = 2019-09-11T00:00:00 
 draft = false
 active = true
 
@@ -19,12 +19,12 @@ authors = ["Saar Kuzi", "Abhishek Narwekar", "**Anusri Pampari**", "ChenXiang Zh
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "ACM SIGIR Conference on Human Information Interaction and Retrieval, SIGIR 2019 [under review]"
+publication = "ACM SIGIR Conference on Human Information Interaction and Retrieval, SIGIR"
 publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Implemented a novel framework where the search engine and the user work together to iteratively reformulate a input query. Method is shown to improve retrieval accuracy for difficult queries. "
-abstract_short = "Helloooooo"
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -46,7 +46,7 @@ tags_weight = 22
 
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://dl.acm.org/doi/pdf/10.1145/3331184.3331362"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
