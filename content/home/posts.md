@@ -20,7 +20,7 @@ weight = 9
 
 **Academic Awards**
 
-- Awarded top reviewer title at International Conference on Machine Learning (ICML), 2020
+- Awarded top reviewer title (top 30%) at International Conference on Machine Learning (ICML), 2020
 - Stanford School of Engineering Fellowship for the first three quarters, Stanford, 2019
 - Academic Excellence Award for ranking 2nd in dept’s B.Tech - M.Tech program, IIT Bombay, 2016
 - Undergraduate Research Award for outstanding research contribution, IIT Bombay, 2015
