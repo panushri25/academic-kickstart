@@ -19,8 +19,8 @@ authors = ["**Anusri Pampari**", "Stefano Ermon"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Conference on Uncertainty in Artificial Intelligence"
-publication_short = "UAI"
+publication = "Arxiv [in preperation]"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "A probabilistic model is said to be calibrated if its predicted probabilities match the corresponding empirical frequencies. Calibration is important for uncertainty quantification and decision making in safety-critical applications. While calibration of classifiers has been widely studied, we find that calibration is brittle and can be easily lost under minimal covariate shifts. Existing techniques, including domain adaptation ones, primarily focus on prediction accuracy and do not guarantee calibration neither in theory nor in practice. In this work, we formally introduce the problem of calibration under domain shift, and propose an importance sampling based approach to address it. We evaluate and discuss the efficacy of our method on both real-world datasets and synthetic datasets."
