@@ -50,10 +50,10 @@ tags_weight = 22
 url_pdf = "https://arxiv.org/abs/1809.00732"
 url_preprint = ""
 url_code = "https://github.com/panushri25/emrQA"
-url_dataset = ""
+url_dataset = "https://github.com/panushri25/emrQA"
 url_project = ""
-url_slides = ""
-url_video = ""
+url_slides = "files/emrQA-final.pptx"
+url_video = "https://vimeo.com/305887077"
 url_poster = ""
 url_source = ""
 #url_custom = [{name = "ASE", url = "tags/ase/"},
