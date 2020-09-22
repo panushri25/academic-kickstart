@@ -26,7 +26,7 @@ date_format = "January 2006"
   location = "Sunnyvale, California, USA"
   date_start = "2019-07-01"
   date_end = "2019-09-01"
-  description = """Worked on efficient data valuation algorithm implementation"""
+  description = """Worked on efficient ML Data Valuation algorithm implementation"""
   
 [[experience]]
   title = "Research Assisstant"
@@ -35,7 +35,7 @@ date_format = "January 2006"
   location = "Stanford, California, USA"
   date_start = "2019-02-01"
   date_end = "2019-07-01"
-  description = """Worked on Data Valuation, Active Learning and Identifying gender bias in patient experience surveys"""
+  description = """Worked on  ML Data Valuation, Active Learning and Identifying gender bias in patient experience surveys"""
  
 [[experience]]
   title = "Research Intern"
