@@ -20,8 +20,8 @@ authors = ["**Anusri Pampari**", "Preethi Raghavan", "Jennifer Liang", "Jian Pen
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Emperical Methods in Natural Language Processing, EMNLP 2018 [accepted]"
-publication_short = ""
+publication = "Emperical Methods in Natural Language Processing [accepted]"
+publication_short = "EMNLP 2018"
 
 # Abstract and optional shortened version.
 abstract = "We propose a novel methodology to generate domain-specific large-scale question answering (QA) datasets by re-purposing existing annotations for other NLP tasks. We demonstrate an instance of this methodology in generating a large-scale QA dataset for electronic medical records by leveraging existing expert annotations on clinical notes for various NLP tasks from the community shared i2b2 datasets. The resulting corpus (emrQA) has 1 million question-logical form and 400,000+ question-answer evidence pairs. We characterize the dataset and explore its learning potential by training baseline models for question to logical form and question to answer mapping. "
