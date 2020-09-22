@@ -1,11 +1,11 @@
 +++
-title = "Learning Predictive Embeddings for  Heterogeneous Molecular Networks"
-# date = 2017-11-11T00:00:00
+title = "Patient Experience Surveys Reveal Gender-Biased Descriptions of Care Providers"
+# date = 2020-06-11T00:00:00
 draft = false
-active = false
+active = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Anusri Pampari**", "Yuexi Chen", "Mark Leiserson", "Jian Peng"]
+authors = ["**Anusri Pampari**", "Dylan Haynes", "James Zou", "Teri M Greiling"]
 
 
 # Publication type.
@@ -17,14 +17,14 @@ authors = ["**Anusri Pampari**", "Yuexi Chen", "Mark Leiserson", "Jian Peng"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "27th International Conference on Intelligent Systems in Molecular Biology, ISMB 2019 [in preperation]"
+publication = "Academic Medicine [under review]"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Designing and evaluating a neural network framework to learn shared node embeddings and network-specific models in multiple heterogeneous networks."
+abstract = "Computationally showed the gender bias in physician-patient interactions expressed through patient experience surveys."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
